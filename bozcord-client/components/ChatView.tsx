@@ -1,6 +1,6 @@
 "use client"
 
-export default function ChannelView() {
+export default function ChatView() {
   return (
     <div className="w-full h-full flex flex-col justify-center items-center space-y-[10px]">
       <div className="w-full h-full bg-dark-dark-gray rounded-t-xl">
